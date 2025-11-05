@@ -1,0 +1,17 @@
+{
+  "files.associations": {
+    "*.html": "hugo"
+  },
+  "emmet.includeLanguages": {
+    "hugo": "html"
+  },
+  "[hugo]": {
+    "editor.quickSuggestions": {
+      "other": true,
+      "comments": false,
+      "strings": true
+    }
+  },
+  "html.validate.scripts": false,
+  "javascript.validate.enable": false
+}

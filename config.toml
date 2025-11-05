@@ -1,9 +1,15 @@
-baseURL = "https://coder1807.github.io/My-First-Workshop/"
+baseURL = "https://ruskicoder.github.io/fcj-skyline2-proposal/"
 relativeURLs = true
 canonifyURLs = true
 
 # Change the default theme to be use when building the site with Hugo
 theme = "hugo-theme-learn"
+
+# Enable automatic last modified date tracking
+enableGitInfo = true
+
+[frontmatter]
+  lastmod = [":git", ":fileModTime", "lastmod", "date"]
 
 # For search functionality
 [outputs]
@@ -14,15 +20,15 @@ home = [ "HTML", "RSS", "JSON"]
   themeVariant = "workshop"
   # Git hub repo link
   editURL = ""
-  description = ""
-  author = "journeyoftheaverageguy@gmail.com"
+  description = "InsightHR - HR Automation Platform Proposal"
+  author = "FCJ SkyLine2 Team"
   showVisitedLinks = true
   disableBreadcrumb = false
   disableNextPrev = false
   
 [Languages]
 [Languages.en]
-title = "AWS System Manager"
+title = "InsightHR - HR Automation Platform"
 weight = 1
 languageName = "English"
 
@@ -33,7 +39,7 @@ url = "https://www.facebook.com/groups/awsstudygroupfcj/"
 weight = 20
 
 [Languages.vi]
-title = "AWS System Manager"
+title = "InsightHR - Nền tảng Tự động hóa Nhân sự"
 weight = 2
 languageName = "Tiếng Việt"
 

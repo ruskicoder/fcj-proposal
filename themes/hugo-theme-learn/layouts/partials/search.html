@@ -1,3 +1,4 @@
+{{/* Hugo template file - linter warnings are false positives */}}
 <div class="searchbox">
     <label for="search-by"><i class="fas fa-search"></i></label>
     <input data-search-input id="search-by" type="search" placeholder="{{T "Search-placeholder"}}">
@@ -7,7 +8,7 @@
 <script type="text/javascript" src="{{"js/lunr.min.js" | relURL}}{{ if $assetBusting }}?{{ now.Unix }}{{ end }}"></script>
 <script type="text/javascript" src="{{"js/auto-complete.js" | relURL}}{{ if $assetBusting }}?{{ now.Unix }}{{ end }}"></script>
 <script type="text/javascript">
-    {{ if .Site.IsMultiLingual }}
+    {{ if hugo.IsMultilingual }}
         var baseurl = "{{.Site.BaseURL}}{{.Site.LanguagePrefix}}";
     {{ else }}
         var baseurl = "{{.Site.BaseURL}}";
