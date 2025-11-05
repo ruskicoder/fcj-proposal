@@ -32,7 +32,7 @@ pre: " <b> 5. </b> "
 ### Giai đoạn 2: Hoàn thiện và Mở rộng tính năng (Tháng 3 & 4)
 
 **Mục tiêu**:
-- Tích hợp Chatbot (HR Assistant) để truy vấn dữ liệu
+- Tích hợp Chatbot (HR Assistant) để trả lời các câu hỏi liên quan đến công việc HR và cung cấp thông tin chi tiết
 - Hoàn thiện chức năng gửi thông báo tự động qua SNS
 - Nâng cấp dashboard với các bộ lọc và biểu đồ phân tích sâu hơn
 - Tiến hành kiểm thử toàn diện, thu thập phản hồi và tinh chỉnh ứng dụng
@@ -51,8 +51,8 @@ pre: " <b> 5. </b> "
 
 ### Tiêu chí thành công
 
-- **Hiệu suất**: Hệ thống phản hồi trong vòng 2 giây cho 95% yêu cầu
-- **Khả năng mở rộng**: Xử lý 1000+ người dùng đồng thời
-- **Độ tin cậy**: 99.9% thời gian hoạt động
+- **Hiệu suất**: Hệ thống phản hồi nhanh cho phần lớn các yêu cầu
+- **Khả năng mở rộng**: Xử lý nhiều người dùng đồng thời một cách hiệu quả
+- **Độ tin cậy**: Thời gian hoạt động và tính sẵn sàng cao của hệ thống
 - **Sự hài lòng của người dùng**: Phản hồi tích cực từ người dùng thử nghiệm
 - **Hiệu quả chi phí**: Duy trì trong ngân sách AWS đã lập

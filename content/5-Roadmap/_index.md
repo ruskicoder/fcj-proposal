@@ -32,7 +32,7 @@ pre: " <b> 5. </b> "
 ### Phase 2: Enhancement and Feature Expansion (Months 3 & 4)
 
 **Objectives**:
-- Integrate Chatbot (HR Assistant) for data queries
+- Integrate Chatbot (HR Assistant) to answer HR-related questions and provide insights
 - Complete automatic notification function via SNS
 - Upgrade dashboard with advanced filters and deeper analysis charts
 - Conduct comprehensive testing, collect feedback, and refine application
@@ -51,8 +51,8 @@ pre: " <b> 5. </b> "
 
 ### Success Criteria
 
-- **Performance**: System responds within 2 seconds for 95% of requests
-- **Scalability**: Handles 1000+ concurrent users
-- **Reliability**: 99.9% uptime
+- **Performance**: System responds quickly for most requests
+- **Scalability**: Handles multiple concurrent users effectively
+- **Reliability**: High system uptime and availability
 - **User Satisfaction**: Positive feedback from beta testers
 - **Cost Efficiency**: Stays within budgeted AWS costs
