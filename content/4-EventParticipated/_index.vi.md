@@ -1,6 +1,6 @@
 ---
 title: "Các events đã tham gia"
-date: 2025-11-11T00:00:00+00:00
+date: "`r Sys.Date()`"
 weight: 4
 chapter: false
 pre: " <b> 4. </b> "

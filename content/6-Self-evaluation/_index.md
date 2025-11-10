@@ -1,6 +1,6 @@
 ---
 title: "Self-Assessment"
-date: 2025-11-11T00:00:00+00:00
+date: "`r Sys.Date()`"
 weight: 6
 chapter: false
 pre: " <b> 6. </b> "
