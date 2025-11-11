@@ -1,12 +1,12 @@
 ---
-title: "InsightHR - Nền tảng Tự động hóa Nhân sự"
-date: "2025-11-09"
-lastmod: "2025-11-09"
+title: "Bản đề xuất"
+date: "2025-11-11"
+lastmod: "2025-11-11"
 weight: 1
 chapter: false
 pre: " <b> 1. </b> "
 ---
-# Đề xuất: Nền tảng Tự động hóa Nhân sự (InsightHR)
+# Nền tảng Tự động hóa Nhân sự (InsightHR)
 
 ## I. Giới thiệu về InsightHR
 
