@@ -1,12 +1,12 @@
 ---
-title: "InsightHR - HR Automation Platform"
-date: "2025-11-09"
-lastmod: "2025-11-09"
+title: "Proposal"
+date: "2025-11-11"
+lastmod: "2025-11-11"
 weight: 1
 chapter: false
 pre: " <b> 1. </b> "
 ---
-# Proposal: HR Automation Platform (InsightHR)
+# HR Automation Platform (InsightHR)
 
 
 ## I. Introduction to InsightHR
